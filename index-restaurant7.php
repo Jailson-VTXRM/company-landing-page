@@ -35,7 +35,7 @@
                                     <nav id="menu">
                                         <ul id="menu-menu" class="menu menu-main">
                                             <li class=" current-menu-item page_item current_page_item">
-                                                <a href="#home"><span>HOME jah Bless</span></a>
+                                                <a href="#home"><span>HOME jah </span></a>
                                             </li>
                                             <li>
                                                 <a href="#aboutus"><span>Sobre Nôs</span></a>
